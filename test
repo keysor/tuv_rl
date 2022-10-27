@@ -1,0 +1,1 @@
+a=["Keysor", "Clayton", "Whale"]a[Math.floor(Math.random()*a.length)])
